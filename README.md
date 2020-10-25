@@ -33,13 +33,11 @@ repository.Hope you understand my purpose for making this repository and use it 
 #
 #### 13.cpp = Write a program to demonstrate inline function.
 #
-#### 14.cpp = Write a program to perform addition,subtraction,multiplication and division of private data members of 
-two classes using friend function.   
+#### 14.cpp = Write a program to perform addition,subtraction,multiplication and division of private data members of two classes using friend function.   
 #
 #### 15.cpp = Write a program to perform addition of private members of 3 classes using global friend function declaration.
 #
-#### 16.cpp = Write a program to perform addition of private members of 3 classes using member function of one class and 
-friend of other class. 
+#### 16.cpp = Write a program to perform addition of private members of 3 classes using member function of one class and friend of other class. 
 #
 #### 17.cpp = Define a class book having following attributes
  Data members:
@@ -52,10 +50,14 @@ Member function:
  Void print(); // To display book details
  read details of n books from user and print them
  #
- #### 18.cpp = Write a program for dynamic memory allocation using new operator and also 
-delete the allocated memory using delete operator.
+ #### 18.cpp = Write a program for dynamic memory allocation using new operator and also delete the allocated memory using delete operator.
 #
 #### 19.cpp = Write a program to implement constructor overloading.
 #
-#### 20.cpp = 
-
+#### 20.cpp = Write a program to demonstrate uanry operator overloading using increment and decrememt operators.
+#
+#### 21.cpp = Write a program to show use of operator overloading of unary operator using member function as well as friend function.
+#
+#### 22.cpp = WAP to show use of operator overloading of binary operator using member function. 
+#
+#### 23.cpp = 
