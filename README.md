@@ -60,4 +60,8 @@ Member function:
 #
 #### 22.cpp = WAP to show use of operator overloading of binary operator using member function. 
 #
-#### 23.cpp = 
+#### 23.cpp = WAP to show use of operator overloading of binary operator using using friend function perform sum, subtarction and multiplication.
+#
+#### 24.cpp = WAP to show sum of matrix using operator overloading as a member function as well as perform subtraction, multiplication operator overloading using friend function.
+#
+#### 25.cpp = 
