@@ -64,4 +64,12 @@ Member function:
 #
 #### 24.cpp = WAP to show sum of matrix using operator overloading as a member function as well as perform subtraction, multiplication operator overloading using friend function.
 #
-#### 25.cpp = 
+#### 25.cpp = WAP to multiply two matrices using binary operator overlaoding.
+#
+#### 26.cpp = WAP to overload relational operators i.e.(> and < operators).
+#
+#### 27.cpp = WAP to show how constructors and destructors are invoked in a program when used in inheritance.
+#
+#### 28.cpp = WAP to show the working of default and parameterized constructors in inheritance.
+#
+#### 29.cpp = 
