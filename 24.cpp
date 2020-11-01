@@ -5,25 +5,25 @@
 using namespace std;
 class matrix
 {
-    int A[2][3], sum[2][3], i, j;
+    int A[2][2], sum[2][2], i, j;
 
 public:
     void in()
     {
-        cout << "Enter elements of matrixA:" << endl;
+        cout << "Enter matrix element" << endl;
         for (i = 0; i < 2; i++)
         {
-            for (j = 0; j < 3; j++)
+            for (j = 0; j < 2; j++)
                 cin >> A[i][j];
         }
     }
     
     void out()
     {
-        cout << "Matrix A is:" << endl;
+        cout << "Matrix elements are" << endl;
         for (i = 0; i < 2; i++)
         {
-            for (j = 0; j < 3; j++)
+            for (j = 0; j < 2; j++)
                 cout << A[i][j] << " ";
             cout << endl;
         }
@@ -33,14 +33,14 @@ public:
     {
         for (i = 0; i < 2; i++)
         {
-            for (j = 0; j < 3; j++)
+            for (j = 0; j < 2; j++)
                 sum[i][j] = A[i][j] + obj.A[i][j];
         }
 
         for (int i = 0; i < 2; i++)
         {
 
-            for (int j = 0; j < 3; j++)
+            for (int j = 0; j < 2; j++)
             {
 
                 // Print the sum of matrix
@@ -107,11 +107,11 @@ int main()
     m1.out();
     m2.in();
     m2.out();
-    cout << "Sum of matrix is " << endl;
+    cout << "Sum of matrix is: " << endl;
     cout << endl;
 
     m1 + m2;
-    cout << "Difference of matrix is " << endl;
+    cout << "Difference of matrix is: " << endl;
     cout << endl;
 
     m1 - m2;
@@ -122,7 +122,7 @@ int main()
 
 /*
 OUTPUT:
-Enter Matrix Element 
+Enter matrix elements 
 1
 2
 3
@@ -130,7 +130,7 @@ Enter Matrix Element
 Matrix elements are 
 1 2 
 3 4 
-Enter Matrix Element 
+Enter matrix elements 
 7
 8
 9
@@ -138,10 +138,10 @@ Enter Matrix Element
 Matrix elements are
 7 8
 9 6
-Sum of matrix is
+Sum of matrix is:
 8 10
 12 10
-Difference of matrix is
+Difference of matrix is:
 -6 -6
 -6 -2
 MULTIPLICATION of matrix is :
