@@ -70,15 +70,17 @@ Member function:
 #
 #### 26.cpp = WAP to overload relational operators i.e.(> and < operators).
 #
+## Programs based on Inheritance
+
 #### 27.cpp = WAP to show how constructors and destructors are invoked in a program when used in inheritance.
 #
 #### 28.cpp = WAP to show the working of default and parameterized constructors in inheritance.
 #
-#### 29.cpp = WAP to implement virtual function.
+#### 29.cpp = WAP to implement virtual function/dynamic binding.
 #
 #### 30.cpp = WAP to implement pure virtual function or abstract class.
 #
-#### 31.cpp = WAP to implement virtual base class or multipath inheritance or diamond shaped inheritance.
+#### 31.cpp = WAP to implement virtual base class or multipath inheritance or diamond shaped inheritance or hybrid inheritance.
 #
 #### 32.cpp = 
 
