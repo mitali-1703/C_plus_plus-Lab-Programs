@@ -74,4 +74,11 @@ Member function:
 #
 #### 28.cpp = WAP to show the working of default and parameterized constructors in inheritance.
 #
-#### 29.cpp = 
+#### 29.cpp = WAP to implement virtual function.
+#
+#### 30.cpp = WAP to implement pure virtual function or abstract class.
+#
+#### 31.cpp = WAP to implement virtual base class or multipath inheritance or diamond shaped inheritance.
+#
+#### 32.cpp = 
+
