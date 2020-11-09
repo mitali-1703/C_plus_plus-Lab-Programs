@@ -78,7 +78,7 @@ Member function:
 #
 #### 29.cpp = WAP to implement virtual function/dynamic binding.
 #
-#### 30.cpp = WAP to implement pure virtual function or abstract class.
+#### 30.cpp = WAP to implement pure virtual function or abstract base class.
 #
 #### 31.cpp = WAP to implement virtual base class or multipath inheritance or diamond shaped inheritance or hybrid inheritance.
 #
