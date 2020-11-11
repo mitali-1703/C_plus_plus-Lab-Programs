@@ -82,5 +82,11 @@ Member function:
 #
 #### 31.cpp = WAP to implement virtual base class or multipath inheritance or diamond shaped inheritance or hybrid inheritance.
 #
-#### 32.cpp = 
+#### 32.cpp = WAP to show the use of function overriding.
+#
+#### 33.cpp = WAP to implement static binding.
+#
+#### 34.cpp = WAP to implement virtual destructors.
+#
+#### 35.cpp = WAP to
 
