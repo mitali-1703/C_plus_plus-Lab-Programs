@@ -86,7 +86,7 @@ Member function:
 #
 #### 33.cpp = WAP to implement static binding.
 #
-#### 34.cpp = WAP to implement virtual destructors.
+#### 34.cpp = WAP to implement virtual destructor.
 #
-#### 35.cpp = WAP to
+#### 35.cpp = Demonstrate raeding and writing a text file.
 
